@@ -1,6 +1,6 @@
                                               === Flickr Thumbnails Widget ===
 Contributors: karrde
-Donate link: http://example.com/
+Donate link: http://www.karrderized.com/old-stuff/flickr-thumbnails-widget/
 Tags: flickr, widget, thumbnails, rss
 Requires at least: 2.0.2
 Tested up to: 3.02
