@@ -5,7 +5,7 @@
 */
 /*
 Plugin Name: Flickr Thumbnails Widget
-Plugin URI: http://www.karrderized.com/old-stuff/flickr-thumbnail-widget/
+Plugin URI: http://www.karrderized.com/wordpress-plugins/flickr-thumbnail-widget/
 Description: Displays thumbnails from Flickr based on the user/group/tag you provide.
 Author: James Carppe
 Version: 1.5
